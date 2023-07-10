@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1663754049,
+	"version": 1688956484,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -100,9 +100,16 @@
 		"images/frames-sheet0.png",
 		"images/gname-sheet0.png",
 		"images/btn-sheet0.png",
+		"images/btn-sheet1.png",
 		"images/ys-sheet0.png",
 		"images/lightss-sheet0.png",
 		"images/lightss-sheet1.png",
+		"images/scroll2-sheet0.png",
+		"images/scroll2-sheet1.png",
+		"images/scroll2-sheet2.png",
+		"images/topanddpwm-sheet0.png",
+		"images/pinpoint-sheet0.png",
+		"images/line-sheet0.png",
 		"media/whip.m4a",
 		"media/whip.ogg",
 		"media/gunfire.m4a",
