@@ -1,6 +1,6 @@
 ﻿{
-	"name": "C Language Game",
-	"short_name": "C Language Game",
+	"name": "Python Language Game",
+	"short_name": "Python Language Game",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
